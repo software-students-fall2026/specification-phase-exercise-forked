@@ -5,12 +5,19 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 [Jack Jiang](https://github.com/jack-k-jiang)
+[Ruikun Xu](https://github.com/xuruikun)
+[Ronald Szeto](https://github.com/ronaldszeto)
+[Eric Wu](https://github.com/ew2725)
 
 ## Review of the Current Application
 
 Strength: The generation of the slides, text, images, etc. is fast. There is little delay in the words being spoken being outputted into slides. 
 
 Weakness: Text is sometimes repeated, whether from when the user repeats something or with the seed material. Doesn't support different colors for text or highlighting for sentences.
+
+Weakness: The project title of a slides project changes to match whatever was discussed most recently, and it shifts easily when the lecturer goes off on a tangent. As a result, a project's title often does not describe the lecture as a whole. This makes it easy to mistake one project for another when trying to find a relevant deck or slide later.
+
+Gap: A slide doesn't seem to be able to show more than one generated image, so side-by-side comparisons are not possible. Generating a table doesn't work either, and neither do diagrams. When asked to generate images side by side, the app produces only one image for the slide, as well as text saying that it is comparing. Lectures that compare two things (before and after, two examples, two historical figures) cannot be illustrated as such.
 
 ## Prior Art & Originality
 
