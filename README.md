@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Jack Jiang](https://github.com/jack-k-jiang)
 [Ruikun Xu](https://github.com/xuruikun)
+[Shuo Cao](https://github.com/ShuoWu6529)
 [Ronald Szeto](https://github.com/ronaldszeto)
 [Eric Wu](https://github.com/ew2725)
 
@@ -18,6 +19,11 @@ Weakness: Text is sometimes repeated, whether from when the user repeats somethi
 Weakness: The project title of a slides project changes to match whatever was discussed most recently, and it shifts easily when the lecturer goes off on a tangent. As a result, a project's title often does not describe the lecture as a whole. This makes it easy to mistake one project for another when trying to find a relevant deck or slide later.
 
 Gap: A slide doesn't seem to be able to show more than one generated image, so side-by-side comparisons are not possible. Generating a table doesn't work either, and neither do diagrams. When asked to generate images side by side, the app produces only one image for the slide, as well as text saying that it is comparing. Lectures that compare two things (before and after, two examples, two historical figures) cannot be illustrated as such.
+
+Gap: There is a lack of presenter mode that Google Slides and Powerpoint has. More specifically, Google Slides and Powerpoint both offers presenter mode that allows you to view your speaker notes and timer in another tab.
+
+Strength: Overall, program summarizes the spoken information quite well within its paragraph and bullet point heavy format. The speak aloud feature also fits the slide.
+
 
 ## Prior Art & Originality
 
