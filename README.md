@@ -6,10 +6,16 @@ A little exercise to get started with the specification phase of the software de
 
 [Jack Jiang](https://github.com/jack-k-jiang)
 [Ruikun Xu](https://github.com/xuruikun)
+[Shuo Cao](https://github.com/ShuoWu6529)
 
 ## Review of the Current Application
 
 See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+
+Gap: There is a lack of presenter mode that Google Slides and Powerpoint has. More specifically, Google Slides and Powerpoint both offers presenter mode that allows you to view your speaker notes and timer in another tab.
+
+Strength: Overall, program summarizes the spoken information quite well within its paragraph and bullet point heavy format. The speak aloud feature also fits the slide.
+
 
 ## Prior Art & Originality
 
