@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+[Jack Jiang](https://github.com/jack-k-jiang)
 
 ## Review of the Current Application
 
