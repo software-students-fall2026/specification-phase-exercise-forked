@@ -8,7 +8,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Review of the Current Application
 
-See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+Strength: The generation of the slides, text, images, etc. is fast. There is little delay in the words being spoken being outputted into slides. 
+
+Weakness: Text is sometimes repeated, whether from when the user repeats something or with the seed material. Doesn't support different colors for text or highlighting for sentences.
 
 ## Prior Art & Originality
 
