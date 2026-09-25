@@ -6,6 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 [Jack Jiang](https://github.com/jack-k-jiang)
 [Ruikun Xu](https://github.com/xuruikun)
+[Ronald Szeto](https://github.com/ronaldszeto)
 
 ## Review of the Current Application
 
