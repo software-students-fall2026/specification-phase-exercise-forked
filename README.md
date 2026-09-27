@@ -29,7 +29,7 @@ Gap:
 
 ## Prior Art & Originality
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
+We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student accessibility support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented accessibility features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. 
 
 ## Stakeholders
 
