@@ -48,7 +48,7 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
 
 ## User Requirements
 
