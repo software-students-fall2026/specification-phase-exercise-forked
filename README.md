@@ -46,6 +46,14 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
   
   Regarding his opinions on Slide Machine, while giving a mock lecture, he noted that he was speaking more to the AI than to the actual class and students. Slide Machine also had trouble generating equations and diagrams when he asked for them, and he often had to repeat himself before an equation or diagram was generated. He believes that Slide Machine would not be useful for his subject, graduate-level Electrical Engineering, because the material is too complex for the AI to reliably generate useful equations and diagrams. However, he said that the exit ticket form is a good idea for providing students with practice and is also a good way to gauge their understanding of the lecture.
 
+- Prof. Pui Shan Hui is a professor at NYU who teaches and administers exams for Cantonese. She explained how she doesn't use slides typically as she believes that they are unhelpful in most situations to truly cement knowledge into students. 
+
+  In her Cantonese courses, she typically relies on spoken dialogue and repetition to learn words and phrases effectively. She noted how most students relied mostly on practice and reading material wasn't the main way students understood material. Some problems and frustration she said were how some students would attempt to use AI tools for certain assignments as it slowed their progress in learning the language. Practicing is a difficult process for some and she noted and how certain tools like flashcards were excellent in helping memorization. 
+ 
+  While using the Slide Machine, she expressed frustration on the fact that its speech to text software was unable to track any phrases in Cantonese or even Mandarin. She expected this but also noted how she didn't like how she would need to focus on managaing the AI if she wanted it to generate useful information. Even while speaking in English, it seemed very distracting constantly going back and forth with the AI and asking it to change something.
+  She noted that it seems useful for other subjects but needed things like multilingual support, flash cards, and less managment to make it something useful for more people.
+
+
 ## Product Vision Statement
 
 Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
