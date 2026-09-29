@@ -48,7 +48,7 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
 
 ## User Requirements
 
@@ -73,7 +73,7 @@ See instructions. Delete this line and place your Product Vision Statement here 
 ### UML Activity Diagram 1
 **User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
 
-[![Diagram 1](./diagrams/uml.drawio.png)](./diagrams/uml.drawio.png)
+[![Diagram 1](./diagrams/uml_diagram_1.png)](./diagrams/uml_diagram_1.png)
 
 ## Wireframes
 
