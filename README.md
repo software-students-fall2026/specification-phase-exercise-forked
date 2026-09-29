@@ -29,7 +29,7 @@ Gap:
 
 ## Prior Art & Originality
 
-We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student accessibility support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented accessibility features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. On the presenter/instructor side, we found that the creation of real time diagrams and more flexible image placement wasn't implemented either 
+We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student accessibility support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented accessibility features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. On the presenter/instructor side, we found that the creation of real-time diagrams and more flexible image placement wasn't implemented either. We propose giving instructors the ability to build diagrams in real time from basic shapes they can connect, and to place images more flexibly than the current single-layout selection allows.
 
 ## Stakeholders
 
@@ -67,7 +67,7 @@ He also ran into a strange language issue while testing on a different device, o
 
 ## Product Vision Statement
 
-Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
+Our contribution gives instructors precise, live control over what a lecture's slides will actually depict, with diagrams built in real time from simple shapes they can connect, and more flexible image placement. Those better-built decks then become the basis for instructor-guided study, as students turn them into personalized study guides, flashcards, and practice questions.
 
 ## User Requirements
 
