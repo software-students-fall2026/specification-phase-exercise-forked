@@ -73,7 +73,7 @@ See instructions. Delete this line and place your Product Vision Statement here 
 ### UML Activity Diagram 1
 **User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
 
-[![Diagram 1](./diagrams/uml.drawio.png)](./diagrams/uml.drawio.png)
+[![Diagram 1](./diagrams/uml_diagram_1.png)](./diagrams/uml_diagram_1.png)
 
 ## Wireframes
 
