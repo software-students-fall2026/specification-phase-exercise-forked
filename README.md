@@ -46,7 +46,21 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
+### Instructors
+<!--As a [type of user], I want [some goal] so that [some reason].", where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.-->
+1. As an instructor, I want to select which lectures are included in an exam study collection so students know which course material is relevant.
+2. As an instructor, I want to see which topics students struggle with on practice quizzes so that I know what to review.
+3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
+4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy
+5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful
+6. 
+7. 
+8. 
+9. 
+10. 
+
+
+### Students
 
 ## Activity Diagrams
 
