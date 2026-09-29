@@ -46,6 +46,14 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
   
   Regarding his opinions on Slide Machine, while giving a mock lecture, he noted that he was speaking more to the AI than to the actual class and students. Slide Machine also had trouble generating equations and diagrams when he asked for them, and he often had to repeat himself before an equation or diagram was generated. He believes that Slide Machine would not be useful for his subject, graduate-level Electrical Engineering, because the material is too complex for the AI to reliably generate useful equations and diagrams. However, he said that the exit ticket form is a good idea for providing students with practice and is also a good way to gauge their understanding of the lecture.
 
+- Prof. F is a professor at NYU who teaches and administers exams for Cantonese. She explained how she doesn't use slides typically as she believes that they are unhelpful in most situations to truly cement knowledge into students. 
+
+  In her Cantonese courses, she typically relies on spoken dialogue and repetition to learn words and phrases effectively. She noted how most students relied mostly on practice and reading material wasn't the main way students understood material. Some problems and frustration she said were how some students would attempt to use AI tools for certain assignments as it slowed their progress in learning the language. Practicing is a difficult process for some and she noted and how certain tools like flashcards were excellent in helping memorization. 
+ 
+  While using the Slide Machine, she expressed frustration on the fact that its speech to text software was unable to track any phrases in Cantonese or even Mandarin. She expected this but also noted how she didn't like how she would need to focus on managaing the AI if she wanted it to generate useful information. Even while speaking in English, it seemed very distracting constantly going back and forth with the AI and asking it to change something.
+  She noted that it seems useful for other subjects but needed things like multilingual support, flash cards, and less managment to make it something useful for more people.
+
+
 ## Product Vision Statement
 
 Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
@@ -56,10 +64,10 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 <!--As a [type of user], I want [some goal] so that [some reason].", where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.-->
 1. As an instructor, I want to select which lectures are included in an exam study collection so students know which course material is relevant.
 2. As an instructor, I want to see which topics students struggle with on practice quizzes so that I know what to review.
-3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
-4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy
-5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful
-6. As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
+3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused.
+4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy.
+5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful.
+6. 
 7. 
 8. 
 9. 
@@ -71,9 +79,13 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 ## Activity Diagrams
 
 ### UML Activity Diagram 1
-**User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
+**Instructor User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
 
 [![Diagram 1](./diagrams/uml_diagram_1.png)](./diagrams/uml_diagram_1.png)
+
+### UML Activity Diagram 2
+**Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
+[![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
 
 ## Wireframes
 
