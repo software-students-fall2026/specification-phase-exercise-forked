@@ -33,6 +33,12 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
 
 ## Stakeholders
 
+### Students
+
+- EW is a first-year masters student at NYU Wagner for a MPA in Public & Nonprofit Management & Policy. His primary goals for creating slides are to create slides for classwork presentations and to update slides at his internship for annual training policies for working professionals. 
+
+    When he first tested The Slide Machine for creating slides for classwork and study, he found it frustrating that the AI couldn't convey information with more detail but it instead gave the main idea of everything he said and that it couldn't generate images that he needed. For example, he tried to generate a graph of South Korea's GDP from a certain time frame but the AI just generated text stating his prompt. Another problem he faced was that he couldn't reference older slides when discussing a topic. For his internship, one of his goals is to be able to update slides for new training policies, and also prefers for The Slide Machine to create header and title slides rather than producing a unique header for each slide. He also discussed a need for being both a student and a worker; he never often creates slides on the spot during a lecture but rather creates scripts off of premade slides to present. He also wants to be able to practice his time management skills while presenting slides by having a timer for each slide.
+
 ### Instructors
 - Prof. J is a professor at NYU Tandon who teaches Electrical Engineering to graduate students. He first established that his goals are to transfer knowledge to students and help them develop critical thinking skills. He wants to help students gain skills for present topics involving problem-solving, as well as skills needed for the future that are centered more around research and developing new approaches. Additionally, Prof. J said that grades in one of the classes he teaches are very varied, and he hopes that all of his students will perform better on exams. 
 
@@ -42,7 +48,7 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
 
 ## User Requirements
 
@@ -64,7 +70,14 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+### UML Activity Diagram 1
+**Instructor User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
+
+[![Diagram 1](./diagrams/uml_diagram_1.png)](./diagrams/uml_diagram_1.png)
+
+### UML Activity Diagram 2
+**Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
+[![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
 
 ## Wireframes
 
