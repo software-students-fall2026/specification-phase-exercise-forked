@@ -71,9 +71,13 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 ## Activity Diagrams
 
 ### UML Activity Diagram 1
-**User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
+**Instructor User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
 
 [![Diagram 1](./diagrams/uml_diagram_1.png)](./diagrams/uml_diagram_1.png)
+
+### UML Activity Diagram 2
+**Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
+[![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
 
 ## Wireframes
 
