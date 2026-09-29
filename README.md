@@ -71,9 +71,13 @@ See instructions. Delete this line and place your Product Vision Statement here 
 ## Activity Diagrams
 
 ### UML Activity Diagram 1
-**User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
+**Instructor User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
 
 [![Diagram 1](./diagrams/uml.drawio.png)](./diagrams/uml.drawio.png)
+
+### UML Activity Diagram 2
+**Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
+[![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
 
 ## Wireframes
 
