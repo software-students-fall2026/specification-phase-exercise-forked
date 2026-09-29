@@ -59,7 +59,7 @@ See instructions. Delete this line and place your Product Vision Statement here 
 3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
 4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy
 5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful
-6. 
+6. As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
 7. 
 8. 
 9. 
@@ -70,7 +70,10 @@ See instructions. Delete this line and place your Product Vision Statement here 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+### UML Activity Diagram 1
+**User Story 6:** As an instructor, I want to be able to mark specific slides or highlight text as key materials, so that students know what topics to focus on when reviewing
+
+[![Diagram 1](./diagrams/uml.drawio.png)](./diagrams/uml.drawio.png)
 
 ## Wireframes
 
