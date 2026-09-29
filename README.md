@@ -94,7 +94,7 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 
 ### UML Activity Diagram 2
 **Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
-[![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
+[![Diagram 2](./diagrams/uml_diagram_2.png)](./diagrams/uml_diagram_2.png)
 
 ## Wireframes
 
