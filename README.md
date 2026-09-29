@@ -39,13 +39,34 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
 
     When he first tested The Slide Machine for creating slides for classwork and study, he found it frustrating that the AI couldn't convey information with more detail but it instead gave the main idea of everything he said and that it couldn't generate images that he needed. For example, he tried to generate a graph of South Korea's GDP from a certain time frame but the AI just generated text stating his prompt. Another problem he faced was that he couldn't reference older slides when discussing a topic. For his internship, one of his goals is to be able to update slides for new training policies, and also prefers for The Slide Machine to create header and title slides rather than producing a unique header for each slide. He also discussed a need for being both a student and a worker; he never often creates slides on the spot during a lecture but rather creates scripts off of premade slides to present. He also wants to be able to practice his time management skills while presenting slides by having a timer for each slide.
 
+### Instructors
+- Prof. J is a professor at NYU Tandon who teaches Electrical Engineering to graduate students. He first established that his goals are to transfer knowledge to students and help them develop critical thinking skills. He wants to help students gain skills for present topics involving problem-solving, as well as skills needed for the future that are centered more around research and developing new approaches. Additionally, Prof. J said that grades in one of the classes he teaches are very varied, and he hopes that all of his students will perform better on exams. 
+
+  One of the problems and frustrations he mentioned was that attendance in his in-person classes was sometimes lacking. He said this could be attributed to the fact that graduate students are sometimes too busy to attend class because of responsibilities such as part-time jobs. Prof. J also said that graduate students often believe they are more capable of self-studying topics. He gives students practice questions in PDF format that are based on lecture notes. He does not give sample tests, such as previous exams, because he believes they would not be helpful for current exam questions. He said that he believes practice exams are useful but does not believe in reusing old exams. 
+  
+  Regarding his opinions on Slide Machine, while giving a mock lecture, he noted that he was speaking more to the AI than to the actual class and students. Slide Machine also had trouble generating equations and diagrams when he asked for them, and he often had to repeat himself before an equation or diagram was generated. He believes that Slide Machine would not be useful for his subject, graduate-level Electrical Engineering, because the material is too complex for the AI to reliably generate useful equations and diagrams. However, he said that the exit ticket form is a good idea for providing students with practice and is also a good way to gauge their understanding of the lecture.
+
 ## Product Vision Statement
 
 See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here, grouped by type of user. These should describe functionality that is new or changed, not functionality the app already has.
+### Instructors
+<!--As a [type of user], I want [some goal] so that [some reason].", where [type of user], [some goal] and [some reason] are replaced with appropriate values. Keep them small and written in non-technical language that the type of user would use.-->
+1. As an instructor, I want to select which lectures are included in an exam study collection so students know which course material is relevant.
+2. As an instructor, I want to see which topics students struggle with on practice quizzes so that I know what to review.
+3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
+4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy
+5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful
+6. 
+7. 
+8. 
+9. 
+10. 
+
+
+### Students
 
 ## Activity Diagrams
 
