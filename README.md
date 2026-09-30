@@ -136,7 +136,7 @@ Our contribution gives instructors precise, live control over what a lecture's s
 <img width="896" height="605" alt="image" src="https://github.com/user-attachments/assets/ee78ab61-bb8f-402e-9224-c5ef1fe90e94" />
 <img width="843" height="567" alt="image" src="https://github.com/user-attachments/assets/6225b363-118a-4c29-a680-dcd1012a255d" />
 <img width="822" height="558" alt="image" src="https://github.com/user-attachments/assets/d3028751-0135-4b95-b498-3c4d15710c7d" />
-<img width="689" height="469" alt="image" src="https://github.com/user-attachments/assets/ab2514a8-3a95-4682-b8c6-122697f1a58a" />
+<img width="773" height="528" alt="image" src="https://github.com/user-attachments/assets/a3b7f370-defc-4ab0-9e6b-d26e331cfb62" />
 <img width="825" height="560" alt="image" src="https://github.com/user-attachments/assets/2dce147a-79a4-4adb-bbb3-fa705e3611dc" />
 
 
