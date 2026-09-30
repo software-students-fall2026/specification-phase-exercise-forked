@@ -119,7 +119,7 @@ Our contribution gives instructors precise, live control over what a lecture's s
 **Student User Story 3:** As a student, I want to be able to generate flash cards and cheatsheets so that I can better understand lecture materials.
 [![Diagram 3](./diagrams/uml_diagram_3.png)](./diagrams/uml_diagram_3.png)
 
-### UML Activity Diagram 3
+### UML Activity Diagram 4
 **Student User Story 6:** As a student, I want to leave a comment on a specific slide describing what confused me, and label what kind of problem it is (the explanation, the example, the image, or the accuracy), so that my instructor gets feedback specific enough to act on.
 [![Diagram 3](./diagrams/uml3_diagram.png)](./diagrams/uml3_diagram.png)
 
