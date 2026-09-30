@@ -86,6 +86,16 @@ Our contribution gives instructors precise, live control over what a lecture's s
 
 
 ### Students
+1. As a student, I want to generate a study guide from a shared deck organized by topic rather than by slide order, so that I can review material in a logical sequence instead of the order it happened to come up.
+2. As a student, I want to be able to generate flash cards and cheatsheets so that I can better understand lecture materials.
+3. As a student, I want my generated flashcards and cheatsheet organized by topic rather than by the order slides appeared, so that I can study or scan one topic at a time.
+4. As a student, I want a flashcard to keep the diagram or image from its source slide, not just text, so that I can study visual material the way it was actually taught.
+5. As a student, I want to generate a practice quiz scoped to one topic and see my results broken down by topic, so that I know exactly which part to go back and review.
+6. As a student, I want to leave a comment on a specific slide describing what confused me, and label what kind of problem it is (the explanation, the example, the image, or the accuracy), so that my instructor gets feedback specific enough to act on.
+7. As a student, I want to see which topics or slides my instructor has marked as core concepts versus examples, so that I know what to prioritize when I'm studying on my own.
+8. As a student, I want a text description attached to any image in my flashcards, cheatsheet, or study guide, so that the same material works for me if I'm using a screen reader.
+9. As a student, I want to mark a topic as mastered once I've reviewed it, so that future practice quizzes focus on the topics I haven't mastered yet.
+10. As a student, I want to generate flashcards, a cheatsheet, or a practice quiz from my instructor's exam study collection spanning multiple lectures, rather than from just one deck at a time, so that I can prepare for a cumulative exam the way my instructor intended.
 
 ## Activity Diagrams
 
