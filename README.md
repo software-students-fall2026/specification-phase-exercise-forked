@@ -126,7 +126,20 @@ Our contribution gives instructors precise, live control over what a lecture's s
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+<img width="1212" height="811" alt="image" src="https://github.com/user-attachments/assets/edbe695b-5b2f-46db-9e7a-2d1c4b35c271" />
+<img width="901" height="601" alt="image" src="https://github.com/user-attachments/assets/849b26a2-5f0f-4ad1-ba9a-6124ca69a1be" />
+<img width="801" height="547" alt="image" src="https://github.com/user-attachments/assets/917b267c-77ae-4d5e-88da-1046aac21f40" />
+<img width="768" height="523" alt="image" src="https://github.com/user-attachments/assets/a7da899b-4900-4d1e-a9d1-4d9a87b13838" />
+<img width="784" height="534" alt="image" src="https://github.com/user-attachments/assets/9d649b5b-729d-4fcf-a6ed-85236a8e8848" />
+<img width="711" height="487" alt="image" src="https://github.com/user-attachments/assets/8f31e984-095d-4cb0-9fed-3086452b2acd" />
+<img width="896" height="605" alt="image" src="https://github.com/user-attachments/assets/ee78ab61-bb8f-402e-9224-c5ef1fe90e94" />
+<img width="843" height="567" alt="image" src="https://github.com/user-attachments/assets/6225b363-118a-4c29-a680-dcd1012a255d" />
+<img width="696" height="565" alt="image" src="https://github.com/user-attachments/assets/354bef29-d6bb-44b7-b84b-71cba11ffa56" />
+<img width="822" height="558" alt="image" src="https://github.com/user-attachments/assets/d3028751-0135-4b95-b498-3c4d15710c7d" />
+<img width="828" height="563" alt="image" src="https://github.com/user-attachments/assets/0a6f86b9-e220-4713-9aac-776902163b85" />
+<img width="825" height="560" alt="image" src="https://github.com/user-attachments/assets/2dce147a-79a4-4adb-bbb3-fa705e3611dc" />
+
+
 
 ## Clickable Prototype
 
