@@ -20,7 +20,7 @@ Weakness:
 * The project title of a slides project changes to match whatever was discussed most recently, and it shifts easily when the lecturer goes off on a tangent. As a result, a project's title often does not describe the lecture as a whole. This makes it easy to mistake one project for another when trying to find a relevant deck or slide later.
 * Correcting inaccurate content adds new slides rather than editing the original material. This inflates presentation length, forces tedious manual cleanup, and breaks the flow between the slides. Treating user feedback as an additive history log instead of an inline edit creates significant workflow friction.
 * The software has poor math integration for the slides. For example, telling the slides to give an example of the sample space of flipping a coin would be omega equals to H and T inside brackets would result in words. Then after asking it to represent it mathematically, the program would write up LaTeX code without compiling it unless told to.
-* The software doesn't support multi-language translation. This would be really helpful in a language class where someone can speak in two languages and the program would be able to output text in both languages to support translation.
+* The software doesn't support multi-language translation. This would be really helpful in a language class where someone can speak in two languages and the program would be able to output text in both languages to support translation. This furthermore can be extended to sign language and teaching that with the Slide Machine as an aid to translate and present in real time.
 
 Gap:
 * A slide doesn't seem to be able to show more than one generated image, so side-by-side comparisons are not possible. Generating a table doesn't work either, and neither do diagrams. When asked to generate images side by side, the app produces only one image for the slide, as well as text saying that it is comparing. Lectures that compare two things (before and after, two examples, two historical figures) cannot be illustrated as such.
@@ -29,7 +29,7 @@ Gap:
 
 ## Prior Art & Originality
 
-We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student accessibility support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented accessibility features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. 
+We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student accessibility support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented accessibility features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. On the presenter/instructor side, we found that the creation of real-time diagrams and more flexible image placement wasn't implemented either. We propose giving instructors the ability to build diagrams in real time from basic shapes they can connect, and to place images more flexibly than the current single-layout selection allows.
 
 ## Stakeholders
 
@@ -41,9 +41,11 @@ We looked at the Future Work and Open Questions in the SPEC.md and closed/open P
 
 - JC is a senior Game Design student at the NYU Tisch Game Center. He mainly uses slides for pitching game ideas, advertising finished projects, and putting together research reports. For all three, he relies a lot on diagrams and images to get gameplay flow and design ideas across, since those are hard to explain in words alone. As a design student he also cares about how a presentation feels, not just what it says, so he likes to use varied transitions between slides to keep a pitch visually interesting.
 When he tried The Slide Machine for the first time, his biggest complaint was that he couldn't place images where he wanted them. The system decided where an image went instead of letting him direct it. He also had no way to sketch out a quick diagram using basic shapes and connect them together, which is how he'd normally show a gameplay loop or a system interaction. When the seed-image feature was explained to him, he wasn't sold on it. In his opinion, if he still has to make and place his own diagrams ahead of time, he figured he might as well just build the whole deck himself by hand, which kind of defeats the point. He also wants more say over transitions and pacing than a content-only generator gives him, and he wasn't sure the tool could keep up with the quick back-and-forth a game pitch needs, jumping from a diagram to a screenshot to a comparison slide in a matter of seconds. 
+When asked about on the receiving end of a lecutre, he said he'd also prefer if students could generate flashcards to better revise for quizzes. And in classes where images are integral, he highlighted how important it would be for flashcards to preserve those.   
 
 - MC is a junior Game Design student at the NYU Tisch Game Center. She mostly uses slides for class presentations, and her habit is to plan the shape of a deck before she knows exactly what goes in it. She'll list out the sections she wants first, like title screen, overview, mechanics, thank you, and fill in details after.
 That workflow didn't match how The Slide Machine works. It couldn't generate that outline of slides ahead of time from something she said, so she couldn't lay out her structure first and then talk through the content. She had to figure out structure and content at the same time, which threw off how she normally works. She also found the tool too literal. When she said something like "write down the year pizza was invented," she wanted it to actually look that up and put the answer on the slide, not just transcribe what she said word for word. That points to something she'd want going forward: a bit of built-in research or fact-checking, not just speech capture. She also wanted to be able to reorder or rename sections mid-talk, since she sometimes realizes partway through that "mechanics" should really come before "overview." And she wanted a way to mark a section as finished so the system would stop adding new content to it once she'd moved on, because otherwise it was hard to tell which parts of the deck were actually done.
+She also described how she studies for her own psychology and other classes: rereading a professor's full deck front to back before a test, which takes a long time given how visual and reference-heavy those decks tend to be. She said she often can't tell, without help from the professor, which of the many examples shown were essential versus just illustrative. She'd want a study guide broken out by topic rather than by the order slides were presented, the same structural preference she has for building her own decks, flashcards for recurring vocabulary and named frameworks, and a short set of practice questions to test herself before a graded review, ideally with some indication from the instructor of which topics were the ones worth drilling.
 
 ### Instructors
 - Prof. J is a professor at NYU Tandon who teaches Electrical Engineering to graduate students. He first established that his goals are to transfer knowledge to students and help them develop critical thinking skills. He wants to help students gain skills for present topics involving problem-solving, as well as skills needed for the future that are centered more around research and developing new approaches. Additionally, Prof. J said that grades in one of the classes he teaches are very varied, and he hopes that all of his students will perform better on exams. 
@@ -65,7 +67,7 @@ He also ran into a strange language issue while testing on a different device, o
 
 ## Product Vision Statement
 
-Our contribution extends The Slide Machine’s speech-generated slide decks into instructor-guided study. Instructors can better shape how their lecture slides are reviewed, while students turn the slides into personalized study guides, flashcards, and practice questions.
+Our contribution gives instructors precise, live control over what a lecture's slides will actually depict, with diagrams built in real time from simple shapes they can connect, and more flexible image placement. Those better-built decks then become the basis for instructor-guided study, as students turn them into personalized study guides, flashcards, and practice questions.
 
 ## User Requirements
 
@@ -84,6 +86,16 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 
 
 ### Students
+1. As a student, I want to generate a study guide from a shared deck organized by topic rather than by slide order, so that I can review material in a logical sequence instead of the order it happened to come up.
+2. As a student, I want to be able to generate flash cards and cheatsheets so that I can better understand lecture materials.
+3. As a student, I want my generated flashcards and cheatsheet organized by topic rather than by the order slides appeared, so that I can study or scan one topic at a time.
+4. As a student, I want a flashcard to keep the diagram or image from its source slide, not just text, so that I can study visual material the way it was actually taught.
+5. As a student, I want to generate a practice quiz scoped to one topic and see my results broken down by topic, so that I know exactly which part to go back and review.
+6. As a student, I want to leave a comment on a specific slide describing what confused me, and label what kind of problem it is (the explanation, the example, the image, or the accuracy), so that my instructor gets feedback specific enough to act on.
+7. As a student, I want to see which topics or slides my instructor has marked as core concepts versus examples, so that I know what to prioritize when I'm studying on my own.
+8. As a student, I want a text description attached to any image in my flashcards, cheatsheet, or study guide, so that the same material works for me if I'm using a screen reader.
+9. As a student, I want to mark a topic as mastered once I've reviewed it, so that future practice quizzes focus on the topics I haven't mastered yet.
+10. As a student, I want to generate flashcards, a cheatsheet, or a practice quiz from my instructor's exam study collection spanning multiple lectures, rather than from just one deck at a time, so that I can prepare for a cumulative exam the way my instructor intended.
 
 ## Activity Diagrams
 
@@ -94,7 +106,11 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 
 ### UML Activity Diagram 2
 **Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
-[![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
+[![Diagram 2](./diagrams/uml_diagram_2.png)](./diagrams/uml_diagram_2.png)
+
+### UML Activity Diagram 3
+**Student User Story 3:** As a student, I want to be able to generate flash cards and cheatsheets so that I can better understand lecture materials.
+[![Diagram 3](./diagrams/uml_diagram_3.png)](./diagrams/uml_diagram_3.png)
 
 ## Wireframes
 
