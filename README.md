@@ -40,9 +40,11 @@ In conclusion, besides the instructor-generated quiz, our proposals will include
 
 ### Students
 
-- EW is a first-year masters student at NYU Wagner for a MPA in Public & Nonprofit Management & Policy. His primary goals for creating slides are to create slides for classwork presentations and to update slides at his internship for annual training policies for working professionals. 
+- EW is a first-year masters student at NYU Wagner for a MPA in Public & Nonprofit Management & Policy. His primary goals for creating slides are for class presentations, studying, and a related goal to update slides at his internship for annual training policies for working professionals. 
 
-    When he first tested The Slide Machine for creating slides for classwork and study, he found it frustrating that the AI couldn't convey information with more detail but it instead gave the main idea of everything he said and that it couldn't generate images that he needed. For example, he tried to generate a graph of South Korea's GDP from a certain time frame but the AI just generated text stating his prompt. Another problem he faced was that he couldn't reference older slides when discussing a topic. For his internship, one of his goals is to be able to update slides for new training policies, and also prefers for The Slide Machine to create header and title slides rather than producing a unique header for each slide. He also discussed a need for being both a student and a worker; he never often creates slides on the spot during a lecture but rather creates scripts off of premade slides to present. He also wants to be able to practice his time management skills while presenting slides by having a timer for each slide.
+  When he first tested The Slide Machine for creating slides for classwork and study, he found it frustrating that the AI couldn't convey information with more detail but it instead gave the main idea of everything he said and that it couldn't generate images that he needed. For example, he tried to generate a graph of South Korea's GDP from a certain time frame but the AI just generated text stating his prompt. Furthermore, he mentioned issues he would have with studying from slides because AI's generated content only reached the surface level of everything he was saying. He would need some sort of study guide to be generated from the slides to help with studying. Another problem he faced was that he couldn't reference older slides when discussing a topic despite having valid seeding. He noted it was really unclear if the AI was genuinely using the seeding to generate content or if it was just generating based on what he was saying.
+  
+  For his internship, one of his goals is to be able to update slides for new training policies, and also prefers for The Slide Machine to create header and title slides rather than producing a unique header for each slide. Since he couldn't edit slides because the AI will always append slides, he wants a method to create comments on the slides to note what could be improved in the slide. He also discussed a need for being both a student and a worker; he never often creates slides on the spot during a lecture but rather creates scripts off of premade slides to present. He wants to be able to practice his time management skills while presenting slides by having a timer for each slide.
 
 - JC is a senior Game Design student at the NYU Tisch Game Center. He mainly uses slides for pitching game ideas, advertising finished projects, and putting together research reports. For all three, he relies a lot on diagrams and images to get gameplay flow and design ideas across, since those are hard to explain in words alone. As a design student he also cares about how a presentation feels, not just what it says, so he likes to use varied transitions between slides to keep a pitch visually interesting.
 When he tried The Slide Machine for the first time, his biggest complaint was that he couldn't place images where he wanted them. The system decided where an image went instead of letting him direct it. He also had no way to sketch out a quick diagram using basic shapes and connect them together, which is how he'd normally show a gameplay loop or a system interaction. When the seed-image feature was explained to him, he wasn't sold on it. In his opinion, if he still has to make and place his own diagrams ahead of time, he figured he might as well just build the whole deck himself by hand, which kind of defeats the point. He also wants more say over transitions and pacing than a content-only generator gives him, and he wasn't sure the tool could keep up with the quick back-and-forth a game pitch needs, jumping from a diagram to a screenshot to a comparison slide in a matter of seconds. 
@@ -83,11 +85,11 @@ Our contribution gives instructors precise, live control over what a lecture's s
 3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused.
 4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy.
 5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful.
-6. 
-7. 
-8. 
-9. 
-10. 
+6. As an instructor, I want to draw a diagram in real time using basic shapes that I can connect together.
+7. As an instructor, I want to place more than one image on a slide exactly where I want them, so that I have more control instead of accepting whichever single layout the system picks for me.
+8. As an instructor, I want to mark a slide or topic as a core concept versus an illustrative example.
+9. As an instructor, I want to review and edit the auto-generated study guide before it's made available to students, so that I can correct or remove anything inaccurate before students study from it.
+10. As an instructor, I want to mark a student-reported slide issue as resolved once I've addressed it.
 
 
 ### Students
