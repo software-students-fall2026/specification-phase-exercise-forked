@@ -121,7 +121,7 @@ Our contribution gives instructors precise, live control over what a lecture's s
 
 ### UML Activity Diagram 4
 **Student User Story 6:** As a student, I want to leave a comment on a specific slide describing what confused me, and label what kind of problem it is (the explanation, the example, the image, or the accuracy), so that my instructor gets feedback specific enough to act on.
-[![Diagram 3](./diagrams/uml3_diagram.png)](./diagrams/uml3_diagram.png)
+[![Diagram 4](./diagrams/uml_diagram_4.png)](./diagrams/uml_diagram_4.png)
 
 
 ## Wireframes
