@@ -78,11 +78,11 @@ Our contribution gives instructors precise, live control over what a lecture's s
 3. As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused.
 4. As an instructor, I want to see what type of problem students report on a slide so that I know whether the issue is the explanation, example, image, or accuracy.
 5. As an instructor, I want to see how many students are using the study materials so that I can tell whether the resources are useful.
-6. 
-7. 
-8. 
-9. 
-10. 
+6. As an instructor, I want to draw a diagram in real time using basic shapes that I can connect together.
+7. As an instructor, I want to place more than one image on a slide exactly where I want them, so that I have more control instead of accepting whichever single layout the system picks for me.
+8. As an instructor, I want to mark a slide or topic as a core concept versus an illustrative example.
+9. As an instructor, I want to review and edit the auto-generated study guide before it's made available to students, so that I can correct or remove anything inaccurate before students study from it.
+10. As an instructor, I want to mark a student-reported slide issue as resolved once I've addressed it.
 
 
 ### Students
