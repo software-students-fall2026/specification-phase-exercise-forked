@@ -139,11 +139,9 @@ Our contribution gives instructors precise, live control over what a lecture's s
 <img width="1212" height="811" alt="image" src="https://github.com/user-attachments/assets/a3b7f370-defc-4ab0-9e6b-d26e331cfb62" />
 <img width="1212" height="811" alt="image" src="https://github.com/user-attachments/assets/2dce147a-79a4-4adb-bbb3-fa705e3611dc" />
 
-
-
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/proto/vMIZOLCqFYi4L3CA3PrCEp/Slide-Machine?node-id=41-2&p=f&t=neKIwZsV65HTMoUs-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A2
 
 ## Stakeholder Demo
 
