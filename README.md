@@ -108,6 +108,10 @@ Our contribution gives instructors precise, live control over what a lecture's s
 **Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
 [![Diagram 2](./diagrams/uml_diagram_2.png)](./diagrams/uml_diagram_2.png)
 
+### UML Activity Diagram 3
+**Student User Story 3:** As a student, I want to be able to generate flash cards and cheatsheets so that I can better understand lecture materials.
+[![Diagram 3](./diagrams/uml_diagram_3.png)](./diagrams/uml_diagram_3.png)
+
 ## Wireframes
 
 See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
