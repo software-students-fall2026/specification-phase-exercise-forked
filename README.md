@@ -28,8 +28,13 @@ Gap:
 * The software relies strictly on photos and bullet points and lacks support for other functionality like tables, shapes, charts, and diagrams. This makes the slides struggle with effectively displaying complex data, such as side-by-side comparisons. Without this ability it forces standard formatting tools and limits its use to lower-complexity and heavier text slides.
 
 ## Prior Art & Originality
+Our team's proposal is to add features to the Slide Machine that are relevant to educational uses. Since
+two core user groups of the Slide Machine are instructors and students, the goal is to have these two groups
+interact with the Slide Machine in a way that aid student learning. 
 
-We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student accessibility support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented accessibility features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. On the presenter/instructor side, we found that the creation of real-time diagrams and more flexible image placement wasn't implemented either. We propose giving instructors the ability to build diagrams in real time from basic shapes they can connect, and to place images more flexibly than the current single-layout selection allows.
+We looked at the Future Work and Open Questions in the SPEC.md and closed/open PRs in the Slide Machine repository. We saw that there wasn’t any student support in the current implementation of Slide Machine, nor was it mentioned in Future Work. We do see that there is an option for the instructor to make a quiz from the slides, but not for the students to do so. We propose student-oriented features such as generating a study guide, flashcards, and a practice quiz organized by slides/topic. On the presenter/instructor side, we found that the creation of real-time diagrams and more flexible image placement wasn't implemented either. We propose giving instructors the ability to better guide student studying/reviewing.
+
+In conclusion, besides the instructor-generated quiz, our proposals will include new features added to the Slide Machine.
 
 ## Stakeholders
 
