@@ -87,6 +87,11 @@ Our contribution extends The Slide Machine’s speech-generated slide decks into
 **Instructor User Story 3:** As an instructor, I want to read student comments attached to a specific slide so that I can understand why students are confused
 [![Diagram 2](./diagrams/uml2.drawio.png)](./diagrams/uml2.drawio.png)
 
+### UML Activity Diagram 3
+**Student User Story 6:** As a student, I want to leave a comment on a specific slide describing what confused me, and label what kind of problem it is (the explanation, the example, the image, or the accuracy), so that my instructor gets feedback specific enough to act on.
+[![Diagram 3](./diagrams/uml3_diagram.png)](./diagrams/uml3_diagram.png)
+
+
 ## Wireframes
 
 See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
