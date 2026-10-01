@@ -12,8 +12,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Review of the Current Application
 Strength:
-* The generation of the slides, text, images, etc. is fast. There is little delay in the words being spoken being outputted into slides. 
-* Overall, program summarizes the spoken information quite well within its paragraph and bullet point heavy format. The speak aloud feature also fits the slide.
+* The generation of the slides, text, images, etc. is fast. There is little delay between words being spoken and their appearance on the slides.
+* Overall, the program summarizes the spoken information quite well within its paragraph and bullet point heavy format. The speak-aloud feature also fits the slide.
 
 Weakness: 
 * Text is sometimes repeated, whether from when the user repeats something or with the seed material. Doesn't support different colors for text or highlighting for sentences.
@@ -24,8 +24,8 @@ Weakness:
 
 Gap:
 * A slide doesn't seem to be able to show more than one generated image, so side-by-side comparisons are not possible. Generating a table doesn't work either, and neither do diagrams. When asked to generate images side by side, the app produces only one image for the slide, as well as text saying that it is comparing. Lectures that compare two things (before and after, two examples, two historical figures) cannot be illustrated as such.
-* There is a lack of presenter mode that Google Slides and Powerpoint has. More specifically, Google Slides and Powerpoint both offers presenter mode that allows you to view your speaker notes and timer in another tab.
-* The software relies strictly on photos and bullet points and lacks support for other functionality like tables, shapes, charts, and diagrams. This makes the slides struggle with effectively displaying complex data, such as side-by-side comparisons. Without this ability it forces standard formatting tools and limits its use to lower-complexity and heavier text slides.
+* The software lacks a presenter mode like those offered by Google Slides and PowerPoint. More specifically, Google Slides and Powerpoint both offer presenter mode that allows you to view your speaker notes and timer in another tab.
+* The software relies strictly on photos and bullet points and lacks support for other functionality like tables, shapes, charts, and diagrams. This makes the slides struggle with effectively displaying complex data, such as side-by-side comparisons. Without these capabilities, the software is limited to standard formatting tools and limits its use to lower-complexity and heavier text slides.
 
 ## Prior Art & Originality
 Our team's proposal is to add features to the Slide Machine that are relevant to educational uses. Since
