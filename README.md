@@ -145,8 +145,10 @@ https://www.figma.com/proto/vMIZOLCqFYi4L3CA3PrCEp/Slide-Machine?node-id=41-2&p=
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+[Slide Machine Link](https://theslidemachine.com/d/untitled-8f894a1e)
 
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfRnpudPn01Of_lWbsSYXUNIcid_v8qVXH12txFEtTdG3nDuw/viewform)
+
+We did not have to correct any exit ticket quizzes.
